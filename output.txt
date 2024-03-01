@@ -1,0 +1,11 @@
+    <BLOCK 0 start>
+
+-------MAIN-------
+
+PRINT hello fafa
+RETURN 0
+RETURN null
+    <BLOCK 0 end>
+
+-------FINISH-------
+
